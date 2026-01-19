@@ -19,6 +19,9 @@ export const metadata: Metadata = {
       "The easiest way to split bills with friends using USDC on Base blockchain.",
     type: "website",
   },
+  other: {
+    "base:app_id": "696de9e7c0ab25addaaaf56c",
+  },
 };
 
 export const viewport: Viewport = {
