@@ -1,6 +1,7 @@
 # SplitBase 💰
 
 A Base Mini App for splitting bills with friends using USDC on the Base blockchain.
+<meta name="base:app_id" content="696de9e7c0ab25addaaaf56c" />
 
 ![SplitBase](https://img.shields.io/badge/Base-Mini%20App-0052FF?style=for-the-badge)
 ![USDC](https://img.shields.io/badge/Payments-USDC-2775CA?style=for-the-badge)
