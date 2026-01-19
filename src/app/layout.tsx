@@ -38,6 +38,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta name="base:app_id" content="696de9e7c0ab25addaaaf56c" />
+      </head>
       <body className={`${inter.variable} font-sans antialiased bg-gray-50`}>
         <Providers>{children}</Providers>
       </body>
